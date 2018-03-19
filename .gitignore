@@ -101,3 +101,9 @@ env2/
 
 # sqlite
 #*.sqlite3
+
+venv
+*.pyc
+staticfiles
+.env
+db.sqlite3

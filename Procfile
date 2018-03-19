@@ -1,0 +1,1 @@
+web: gunicorn quatrorodas.wsgi --log-file - 

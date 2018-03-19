@@ -26,7 +26,7 @@ SECRET_KEY = 'c91be1af-8e3d-48bb-9445-a2b992c5fdbe'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['quatrorodastl.herokuapp.com']
 
 
 # Application definition
